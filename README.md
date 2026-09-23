@@ -1,5 +1,6 @@
 # voting-behavior-statistical-analysis
 Statistical analysis of Spanish voting behavior using logistic, probit, ordinal, and multinomial regression in R.
+
 # Voting Behavior Modeling in Spain
 
 An R-based statistical analysis examining factors associated with voting
