@@ -1,12 +1,12 @@
 Statistical analysis of Spanish voting behavior using logistic, probit, ordinal, and multinomial regression in R.
-## Presentation
-
-[View the full presentation in Google Slides](https://docs.google.com/presentation/d/1Oa-WC9XE3lBq3MAB74N9cJ9KCdE03ggjLIhXfXfKdFg/edit?usp=sharing)
 # Voting Behavior Modeling in Spain
 
 An R-based statistical analysis examining factors associated with voting
 behavior in Spain, with particular attention to support for VOX and movement
 across political blocs.
+
+## Presentation
+[View the full presentation in Google Slides](https://docs.google.com/presentation/d/1Oa-WC9XE3lBq3MAB74N9cJ9KCdE03ggjLIhXfXfKdFg/edit?usp=sharing)
 
 ## Project Overview
 
